@@ -9,7 +9,7 @@
 
 Running small time :camera: youtube channel mostly related to frontend topics reactjs, angular etc. 
 
-[D'Coders - A Frontend Youtube Tech](https://www.youtube.com/dcoders)
+[D'Coders - A Frontend Youtube Tech Channel](https://www.youtube.com/dcoders)
 
 [React Component Depot - List of reactjs components built from scratch](https://react-component-depot.netlify.app)
 
