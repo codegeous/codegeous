@@ -5,12 +5,10 @@
 <h4 align="center" > <img width="30" height="30" title="India" src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/in.png"> 
 <img width="30" height="30" title="United Arab Emirates" src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/uae.png"></h4>
 <p align="center">
-
 ![GitHub followers](https://img.shields.io/github/followers/codegeous?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/codegeous?affiliations=OWNER%2CCOLLABORATOR&style=social)
 <img src="https://komarev.com/ghpvc/?username=codgeous" alt="codegeous" />
 ![UpTime](https://img.shields.io/badge/Uptime-24%2F7-blue)
-
 </p>
 
 -   🔭 I’m currently working on Angular 8+ and React Applications
