@@ -1,17 +1,52 @@
+<h5 align="center"> Breathing "Hello World" since 2012</h5>
+<br />
+<h1 align="center">Hi <img width="30" height="30" src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/hi-folks.gif"> I'm Prem Kumar</h1>
+<h3 align="center">Fullstack Web Developer, Youtuber</h3>
+<h3 align="center"><a href="https://www.doodleblue.com/">doodleblue Innovations Pvt Ltd</a> </h3>
+<h4 align="center" > <img width="30" height="30" title="India" src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/in.png"> 
+<img width="30" height="30" title="United Arab Emirates" src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/uae.png"></h4>
+<p align="center">
 
-# Hello, Great you found me here !:pray: 
+![GitHub followers](https://img.shields.io/github/followers/codegeous?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/codegeous?affiliations=OWNER%2CCOLLABORATOR&style=social)
+<img src="https://komarev.com/ghpvc/?username=codgeous" alt="codegeous" />
+![UpTime](https://img.shields.io/badge/Uptime-24%2F7-blue)
 
+</p>
 
-## :boy: Prem Kumar (codegeous) 
-#### ✨ Fullstack Web Developer ✨ Working at [doodleblue Innovations Pvt Ltd](https://www.doodleblue.com/)
+-   🔭 I’m currently working on Angular 8+ and React Applications
 
- Skilled in Javascript frameworks and libraries such as :star:**ReactJS**:star: and Angular, Node JS (ExpressJS, AdonisJS), PHP, MYSQL, MongoDB, HTML, and Amazon Web Services (AWS).
+-   📝 I regulary uploads tutorials on [D'Coders - A Frontend Youtube Tech Channel](https://www.youtube.com/dcoders)
 
-Running small time :camera: youtube channel mostly related to frontend topics reactjs, angular etc. 
+-   📫 Reach me @ **premkumarssp@gmail.com**
 
-[D'Coders - A Frontend Youtube Tech Channel](https://www.youtube.com/dcoders)
+&nbsp;
 
-[React Component Depot - List of reactjs components built from scratch](https://react-component-depot.netlify.app)
+<p>
 
-### 📫 Reach me @ premkumarssp@gmail.com
- 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codegeous&show_icons=true&hide=contribs,prs)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegeous&layout=compact&hide=html" alt="codegeous" /></p>
+
+<p align="left">
+
+## Technologies I work with
+
+<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/html.svg" alt="azure"  height="50"/>
+<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/css.svg" alt="azure"  height="50"/>
+<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/nodejs.svg" alt="azure" height="50"/>
+<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/mongodb.svg" alt="azure"  height="50"/>
+<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/reactjs.svg" alt="azure" height="50"/>
+<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/aws.svg" alt="azure"  height="50"/>
+<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/git.svg" alt="azure"  height="50"/>
+</p>
+
+<!-- <p align="center">
+<a href="https://codepen.io/codepo8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepo8" height="30" width="30" /></a>
+<a href="https://dev.to/codepo8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codepo8" height="30" width="30" /></a>
+<a href="https://twitter.com/codepo8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codepo8" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/christianheilmann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christianheilmann" height="30" width="30" /></a>
+<a href="https://fb.com/thechrisheilmann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thechrisheilmann" height="30" width="30" /></a>
+<a href="https://instagram.com/codepo8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codepo8" height="30" width="30" /></a>
+<a href="https://medium.com/@codepo8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@codepo8" height="30" width="30" /></a>
+</p> -->
