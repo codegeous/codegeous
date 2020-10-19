@@ -1,6 +1,6 @@
-<h5 align="center"> Breathing "Hello World" since 2012</h5>
+<h5 align="center" style="margin-bottom: 5px;"> Breathing "Hello World" since 2012</h5>
 <br />
-<h1 align="center">Hi <img width="30" height="30" src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/hi-folks.gif"> I'm Prem Kumar</h1>
+<h1 align="center" style="margin-top: 0px;">Hi <img width="30" height="30" src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/hi-folks.gif"> I'm Prem Kumar</h1>
 <h3 align="center">Fullstack Web Developer, Youtuber</h3>
 <h3 align="center"><a href="https://www.doodleblue.com/">doodleblue Innovations Pvt Ltd</a> </h3>
 <h4 align="center" > <img width="30" height="30" title="India" src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/in.png"> 
@@ -32,13 +32,8 @@
 
 ## Technologies I work with
 
-<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/html.svg" alt="azure"  height="50"/>
-<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/css.svg" alt="azure"  height="50"/>
-<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/nodejs.svg" alt="azure" height="50"/>
-<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/mongodb.svg" alt="azure"  height="50"/>
-<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/reactjs.svg" alt="azure" height="50"/>
-<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/aws.svg" alt="azure"  height="50"/>
-<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/git.svg" alt="azure"  height="50"/>
+<img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/html.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/css.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/nodejs.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/mongodb.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/reactjs.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/aws.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/git.svg" alt="azure" style="margin-right: 10px" height="50"/>
+
 </p>
 
 <!-- <p align="center">
