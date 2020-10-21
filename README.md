@@ -14,13 +14,14 @@
 
 </h4>
 
--   🔭 I’m currently working on Angular 8+ and React Applications
+-   🔭 I’m currently working on Angular and React Applications.
 
--   📝 I regulary upload video tutorials on [D'Coders - A Frontend Youtube Tech Channel](https://www.youtube.com/dcoders)
+-   📝 Upload video tutorials at [D'Coders - A Frontend Youtube Tech Channel](https://www.youtube.com/dcoders)
 
 -   📫 Reach me @ **premkumarssp@gmail.com**
-
 &nbsp;
+
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 
 ## My Github Stats
 <p align="center">
@@ -35,9 +36,11 @@
 </p>
 <p align="left">
 
+> “Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live”  
+― John Woods
+
 ## Technologies/Tools/Libraries
 
 <img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/html.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/css.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/nodejs.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/mongodb.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/reactjs.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/angular.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/aws.svg" alt="azure" style="margin-right: 10px" height="50"/><img src="https://raw.githubusercontent.com/codegeous/codegeous/main/assets/git.svg" alt="azure" style="margin-right: 10px" height="50"/>
 
 </p>
-
