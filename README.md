@@ -14,7 +14,8 @@
 ![UpTime](https://img.shields.io/badge/Uptime-24%2F7-blue)
 
 </h4>
-<div>[![trophy](https://github-profile-trophy.vercel.app/?username=codegeous)](https://github.com/ryo-ma/github-profile-trophy)</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=codegeous)](https://github.com/ryo-ma/github-profile-trophy)
 
 -   🔭 I’m currently working on Angular and React Applications.
 
